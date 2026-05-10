@@ -1,4 +1,4 @@
-# FlowBoard — Starter Repo
+# FlowBoard - Starter Repo
 
 Starter scaffold for the FlowBoard project, a Kanban-style project management app you'll build in the AI Tutor Code course.
 
